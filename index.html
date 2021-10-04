@@ -17,7 +17,6 @@
 
 <body>
     <div id="wrapper">
-
        
         <nav class="navbar static-top p-2" id="corNav";>            
             <button class="navbar-toggler" style="color:white;" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExample01" aria-controls="navbarsExample01" aria-expanded="false" aria-label="Toggle navigation">
@@ -26,7 +25,7 @@
               </span>
             </button>
             <p class= "mt-3" id="ola">Olá, <span id="saudacao"></span></p>
-            <p id="logo" class= "mt-3">Administradoras - PAR</p>
+            <p id="logo" class= "mt-3 d-none d-md-block">Administradoras - PAR</p>
             <div class="collapse navbar-collapse" id="navbarsExample01">
                 <ul class="navbar-nav mr-auto" >
                     <li class="nav-item active" >
@@ -37,17 +36,6 @@
                     </li>                    
                     <li class="nav-item active" >
                         <a class="nav-link linksNav" href="faq.html">Perguntas Frequentes</a>
-
-        <nav class="navbar navbar-dark bg-faded fixed-top p-4" id="corNav";>            
-            <button class="navbar-toggler" style="color:#EFF5F6;" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExample01" aria-controls="navbarsExample01" aria-expanded="false" aria-label="Toggle navigation">
-              <span class="navbar-toggler-icon"></span>
-            </button>
-            <p class="fs-5" style="color:#EFF5F6;">Administradoras - PAR</p>      
-            <div class="collapse navbar-collapse" id="navbarsExample01" >
-                <ul class="navbar-nav mr-auto" >
-                    <li class="nav-item active" >
-                        <a class="nav-link" id="todasAdm" onclick="mostraTudo()" style="cursor: pointer; color:#EFF5F6;">Ver todas as Administradoras</a>
-
                     </li>
                 </ul>
             </div>
@@ -58,12 +46,7 @@
                 <section class="container" id="texto">
                     <div class="row">
                         <div class="col-md-12">
-
                             <p class= "fs-5 lh-lg mt-3">Você sabia que o atendimento ao Programa de Arrendamento Residencial (PAR) é realizado através de uma Administradora?</p>
-
-                            <p class= "fs-3 mt-3">Olá, <span id="saudacao"></span></p>
-                            <p class= "fs-5 lh-lg">Você sabia que o atendimento ao Programa de Arrendamento Residencial (PAR) é realizado através de uma Administradora?</p>
-
                         </div>
                     </div>
                 </section>
@@ -74,7 +57,6 @@
                             <p class="fs-5 lh-lg">Selecione o Estado do seu imóvel:</p>
                         </div>
                     
-
                         <div class="col-md-4" style="text-align: center;">
                             <select class="form-select form-select-sm" id="Estado"; aria-label="Default select example">
                                 <option selected disabled>Selecione o seu Estado</option>
@@ -110,43 +92,6 @@
                         <!-- <div class="col-md mb-3" style= "justify-content: center"> -->
                             <!-- <button id="botaoGeral" type="button" class="btn btn-outline-primary" onclick="mostraTudo()">Ver todas as Administradoras</button> -->
                         <!-- </div>  -->
-
-                        <div class="col-md-3" style="text-align: center;">
-                            <select class="form-select form-select-sm" id="Estado" text-center aria-label="Default select example">
-                                <!--<option selected disabled>Selecione o seu Estado</option>
-                                <option value="Acre">Acre</option>
-                                <option value="Alagoas">Alagoas</option>
-                                <option value="Amapá">Amapá</option>
-                                <option value="Amazonas">Amazonas</option>
-                                <option value="Bahia">Bahia</option>
-                                <option value="Ceará">Ceará</option>
-                                <option value="Distrito Federal">Distrito Federal</option>
-                                <option value="Espírito Santo">Espírito Santo</option>
-                                <option value="Goiás">Goiás</option>
-                                <option value="Maranhão">Maranhão</option>
-                                <option value="Mato Grosso">Mato Grosso</option>
-                                <option value="Mato Grosso do Sul">Mato Grosso do Sul</option>
-                                <option value="Minas Gerais">Minas Gerais</option>
-                                <option value="Pará">Pará</option>
-                                <option value="Paraíba">Paraíba</option>
-                                <option value="Paraná">Paraná</option>
-                                <option value="Pernambuco">Pernambuco</option>
-                                <option value="Piauí">Piauí</option>
-                                <option value="Rio de Janeiro">Rio de Janeiro</option>
-                                <option value="Rio Grande do Norte">Rio Grande do Norte</option>
-                                <option value="Rio Grande do Sul">Rio Grande do Sul</option>
-                                <option value="Rondônia">Rondônia</option>
-                                <option value="Roraima">Roraima</option>
-                                <option value="Santa Catarina">Santa Catarina</option>
-                                <option value="São Paulo">São Paulo</option>
-                                <option value="Sergipe">Sergipe</option>
-                                <option value="Tocantins">Tocantins</option>-->
-                            </select>                        
-                        </div>
-                        <div class="col-md mb-3" style= "justify-content: center">
-                            <!-- <button id="botaoGeral" type="button" class="btn btn-outline-primary" onclick="mostraTudo()">Ver todas as Administradoras</button> -->
-                        </div> 
-
                     </div>       
 
                     <div id="tabelaGeral" style="display:none;" >
@@ -185,13 +130,8 @@
                 </section>
             </main>
             
-
             <footer class="p-2 mt-4 headerPar" id="rodape">
                 <p class="mt-3">PAR - Programa de Arrendamento Residencial</p>
-
-            <footer class="fs-5 p-4 headerPar" id="rodape">
-                <p>PAR - Programa de Arrendamento Residencial</p>
-
             </footer>
 
         </div>
