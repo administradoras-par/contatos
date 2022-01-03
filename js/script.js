@@ -60,6 +60,8 @@ $ (function () {
 
         '7': '{"Id":"11","idAdministradora":"9","CNPJ":"21.698.624\/0001-02","Contratado":"ALL GESTAO IMOBILIARIA","UF":"ES","Estado":"Espírito Santo","Telefone_1":"(27) 9889-96921","Whatsapp_telefone_1":"Sim","Telefone_2":"(27) 3100-4653","Whatsapp_telefone_2":"Nao","email":"vt@allgestao.com.br","obs":""}',
 
+        '29': '{"Id":"50","idAdministradora":"50","CNPJ":"17.469.667\/0001-30","Contratado":"3 Z ADMINISTRADORA DE IMOVEIS E CONDOMINIO LTDA ME","UF":"GO","Estado":"Goiás","Telefone_1":"(61) 9821-27161","Whatsapp_telefone_1":"Sim","Telefone_2":"(61) 3686-1340","Whatsapp_telefone_2":"Nao","email":"3z.brasilia@gmail.com","obs":"Empreendimentos: Águas Lindas, Conceição Gomes Rabelo e Paris"}',
+
         '8': '{"Id":"12","idAdministradora":"10","CNPJ":"14.097.709\/0001-61","Contratado":"INOVARE NEG\u00d3CIOS IMOBILI\u00c1RIOS E GEST\u00c3O CONDOMINIAL LTDA","UF":"GO","Estado":"Goiás","Telefone_1":"0800-878-2828","Whatsapp_telefone_1":"Sim","Telefone_2":"(62) 3142-1088","Whatsapp_telefone_2":"Nao","email":"par.inovare.goias@gmail.com","obs":""}',
 
         '9': '{"Id":"13","idAdministradora":"11","CNPJ":"14.097.709\/0001-61","Contratado":"INOVARE NEG\u00d3CIOS IMOBILI\u00c1RIOS E GEST\u00c3O CONDOMINIAL LTDA","UF":"MA","Estado":"Maranhão","Telefone_1":"(98) 3042-1504","Whatsapp_telefone_1":"Nao","Telefone_2":"","Whatsapp_telefone_2":"","email":"par.inovare.maranhao@gmail.com","obs":""}',
