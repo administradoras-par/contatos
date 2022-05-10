@@ -66,7 +66,7 @@ $ (function () {
 
         '9': '{"Id":"13","idAdministradora":"11","CNPJ":"14.097.709\/0001-61","Contratado":"INOVARE NEG\u00d3CIOS IMOBILI\u00c1RIOS E GEST\u00c3O CONDOMINIAL LTDA","UF":"MA","Estado":"Maranhão","Telefone_1":"(98) 3042-1504","Whatsapp_telefone_1":"Nao","Telefone_2":"","Whatsapp_telefone_2":"","email":"par.inovare.maranhao@gmail.com","obs":""}',
 
-        '10': '{"Id":"16","idAdministradora":"14","CNPJ":"03.875.232\/0001-81","Contratado":"ADM PONTUAL IMOBILIARIA E CONDOMINIAL LTDA","UF":"MT","Estado":"Mato Grosso","Telefone_1":"(65) 3054-0360","Whatsapp_telefone_1":"Nao","Telefone_2":"(65) 9929-11409","Whatsapp_telefone_2":"Nao","email":"comercial@grupopontual.com.br","obs":""}',
+        '10': '{"Id":"16","idAdministradora":"14","CNPJ":"03.875.232\/0001-81","Contratado":"ADM PONTUAL IMOBILIARIA E CONDOMINIAL LTDA","UF":"MT","Estado":"Mato Grosso","Telefone_1":"(65) 3054-0360","Whatsapp_telefone_1":"Nao","Telefone_2":"(65) 9929-11409","Whatsapp_telefone_2":"Nao","email":"admpontual@gmail.com","obs":""}',
 
         '11': '{"Id":"15","idAdministradora":"13","CNPJ":"27.771.883\/0001-90","Contratado":"LF ADMINISTRADORA DE CONDOMINIOS LTDA","UF":"MS","Estado":"Mato Grosso do Sul","Telefone_1":"(67) 3043-0215","Whatsapp_telefone_1":"Nao","Telefone_2":"(67) 3043-0216","Whatsapp_telefone_2":"Nao","email":"arrendamento@apoiocondominios.com","obs":""}',
 
