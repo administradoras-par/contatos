@@ -82,7 +82,7 @@ $ (function () {
 
         '17': '{"Id":"31","idAdministradora":"31","CNPJ":"14.097.709\/0001-61","Contratado":"INOVARE NEG\u00d3CIOS IMOBILI\u00c1RIOS E GEST\u00c3O CONDOMINIAL LTDA","UF":"PI","Estado":"Piauí","Telefone_1":"0800-591-2302","Whatsapp_telefone_1":"Sim","Telefone_2":"(86) 4009-8398","Whatsapp_telefone_2":"Nao","email":"par.inovare.pi@gmail.com","obs":""}',
 
-        '18': '{"Id":"21","idAdministradora":"18","CNPJ":"21.698.624\/0001-02","Contratado":"ALL GESTAO IMOBILIARIA","UF":"RJ","Estado":"Rio de Janeiro","Telefone_1":"(21) 9734-47005","Whatsapp_telefone_1":"Sim","Telefone_2":"(21) 2283-2663","Whatsapp_telefone_2":"Nao","email":"rj@allgestao.com.br","obs":""}',
+        '18': '{"Id":"21","idAdministradora":"18","CNPJ":"21.698.624\/0001-02","Contratado":"ALL GESTAO IMOBILIARIA","UF":"RJ","Estado":"Rio de Janeiro","Telefone_1":"(21) 9833-47122","Whatsapp_telefone_1":"Sim","Telefone_2":"(21) 2283-2663","Whatsapp_telefone_2":"Nao","email":"rj@allgestao.com.br","obs":""}',
 
         '19': '{"Id":"22","idAdministradora":"20","CNPJ":"12.779.399\/0001-30","Contratado":"CONFIARE ADM DE BENS LTDA","UF":"RJ","Estado":"Rio de Janeiro","Telefone_1":"(21) 9847-69340","Whatsapp_telefone_1":"Nao","Telefone_2":"(21) 3599-1087","Whatsapp_telefone_2":"Nao","email":"adm@confiareadm.com.br","obs":"Somente para Residencial Tom Jobim"}',
 
