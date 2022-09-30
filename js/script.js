@@ -58,7 +58,7 @@ $ (function () {
 
         '6': '{"Id":"10","idAdministradora":"8","CNPJ":"17.469.667\/0001-30","Contratado":"3 Z ADMINISTRADORA DE IMOVEIS E CONDOMINIO LTDA ME","UF":"DF","Estado":"Distrito Federal","Telefone_1":"(61) 9821-27161","Whatsapp_telefone_1":"Sim","Telefone_2":"(61) 3686-1340","Whatsapp_telefone_2":"Nao","email":"3z.brasilia@gmail.com","obs":""}',
 
-        '7': '{"Id":"11","idAdministradora":"9","CNPJ":"21.698.624\/0001-02","Contratado":"ALL GESTAO IMOBILIARIA","UF":"ES","Estado":"Espírito Santo","Telefone_1":"(27) 9889-96921","Whatsapp_telefone_1":"Sim","Telefone_2":"(27) 3100-4653","Whatsapp_telefone_2":"Nao","email":"vt@allgestao.com.br","obs":""}',
+        '7': '{"Id":"11","idAdministradora":"9","CNPJ":"17.469.667\/0001-30","Contratado":"3 Z ADMINISTRADORA DE IMOVEIS E CONDOMINIO LTDA ME","UF":"ES","Estado":"Espírito Santo","Telefone_1":"(27) 9950-22707","Whatsapp_telefone_1":"Sim","Telefone_2":"(27) 4042-8353","Whatsapp_telefone_2":"Nao","email":"3z.espiritosanto@gmail.com","obs":""}',
 
         '29': '{"Id":"50","idAdministradora":"50","CNPJ":"17.469.667\/0001-30","Contratado":"3 Z ADMINISTRADORA DE IMOVEIS E CONDOMINIO LTDA ME","UF":"GO","Estado":"Goiás","Telefone_1":"(61) 9821-27161","Whatsapp_telefone_1":"Sim","Telefone_2":"(61) 3686-1340","Whatsapp_telefone_2":"Nao","email":"3z.brasilia@gmail.com","obs":"Empreendimentos: Águas Lindas, Conceição Gomes Rabelo e Paris"}',
 
