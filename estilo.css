@@ -5,6 +5,55 @@
   font-style: normal;
 }
 
+@font-face {
+  font-family: "FuturaBold";
+  src: url("FuturaStdBold.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "FuturaExtraBold";
+  src: url("FuturaStdExtraBold.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+:root {
+  --azulBrilhante: #0071cf;
+  --azulOriginal: #005ca9;
+  --azulFechado: #004c8c;
+  --laranjaBrilhante: #feb21e;
+  --laranjaOriginal: #f39200;
+  --laranjaFechada: #ec7500;
+  --cristalOriginal: #eff5f6;
+  --cristalFechado: #d0e0e3;
+  --cinzaBrilhante: #eff5f6;
+  --cinzaOriginal: #d0e0e3;
+  --cinzaFechado: #b3c7cb;
+  --grafiteBrilhante: #5f758f;
+  --grafiteOriginal: #48586c;
+  --grafiteFechado: #3a4859;
+  --ceuBrilhante: #32d4ff;
+  --ceuOriginal: #00b5e5;
+  --ceuFechado: #00a2cd;
+  --turquesaBrilhante: #66cfbf;
+  --turquesaOriginal: #54bbab;
+  --turquesaFechada: #40a797;
+  --limaoBrilhante: #c2dc26;
+  --limaoOriginal: #afca0b;
+  --limaoFechado: #a1b911;
+  --tangerinaBrilhante: #ffc230;
+  --tangerinaOriginal: #f9b000;
+  --tangerinaFechada: #f99e00;
+  --goiabaBrilhante: #fc8a76;
+  --goiabaOriginal: #f9765e;
+  --goiabaFechada: #e26650;
+  --uvaBrilhante: #bc8dac;
+  --uvaOriginal: #b26f9b;
+  --uvaFechada: #9f4d83;
+}
+
 html,
 body {
   margin: 0;
@@ -126,6 +175,63 @@ div.body-content {
 } 
 
 
+
+/* perguntas frequentes */
+
+.cardConfig {
+  color: #005ca9;
+  font-family: Futura, "Open Sans", sans-serif;
+  text-align: left;
+  font-size: 1.1rem;
+}
+
+.accordion .card .card-header :hover{
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.respostaConfig {
+  color: #48586c;
+  font-family: Futura, "Open Sans", sans-serif;
+}
+
+.linkAdm {
+  color: #005ca9;
+  font-family: Futura, "Open Sans", sans-serif;
+  text-decoration: none;
+}
+
+.visible-mobile {
+  display: none;
+}
+
+.negrito{
+  font-family: FuturaBold, "Open Sans", sans-serif;
+}
+
+.textoComum{
+  font-family: Arial, Helvetica, sans-serif;
+  color: var(--grafiteOriginal);
+}
+
+.passo{
+  font-family: Futura, "Open Sans", sans-serif;
+  color: var(--azulOriginal);
+}
+
+.botaoBuscaPasso{
+  border: 1px solid #45c0ae;
+  color: var(--grafiteOriginal);
+  font-family: FuturaBold, "Open Sans", sans-serif;
+  box-shadow: 0px 2px 0 rgba(31,42,71,.1);
+}
+
+.botaoBuscaPasso:hover{
+  background: linear-gradient(to bottom, rgba(5,140,224,1) 0%,rgba(4,126,203,1) 100%);
+  color: white;
+  border: 1px solid var(--grafiteBrilhante);
+}
+
 @media only screen and (max-width: 760px),
   (min-device-width: 768px) and (max-device-width: 1024px) {
   table,
@@ -186,29 +292,8 @@ div.body-content {
   td:nth-of-type(7):before {
     content: "";
   }
-}
 
-/* perguntas frequentes */
-
-.cardConfig {
-  color: #005ca9;
-  font-family: Futura, "Open Sans", sans-serif;
-  text-align: left;
-  font-size: 1.1rem;
-}
-
-.accordion .card .card-header :hover{
-  cursor: pointer;
-  text-decoration: underline;
-}
-
-.respostaConfig {
-  color: #48586c;
-  font-family: Futura, "Open Sans", sans-serif;
-}
-
-.linkAdm {
-  color: #005ca9;
-  font-family: Futura, "Open Sans", sans-serif;
-  text-decoration: none;
+  .visible-mobile {
+    display: block;
+  }
 }

@@ -162,21 +162,6 @@ $ (function () {
 
     _datatable('tblAdministradora', '1', 'asc', 10)
 
-    // carregar_json('Estado');
-
-    // function carregar_json(id, dadosEstado){
-    //     var html = '<option selected disabled>Selecione o seu Estado</option>';
-    //     var estadosPar = array.map(entrada => {
-    //         html += '<option value='+ entrada.UF+'>'+ entrada.Estado + '</option>';
-    //         if(id == 'Estado'){
-    //             for(var i=0; i < entrada.length; i++){
-    //                 html += '<option value='+ entrada.UF[i]+'>'+ entrada.Estado[i]+'</option>';
-    //             }
-    //         }
-    //         $('#'+id).html(html);
-    //     });
-    // }
-
     $(document).on('change', '#Estado', function(){
         var dadosEstado = $(this).val();
         $('#tabelaGeral').css('display','none');
@@ -202,7 +187,6 @@ $ (function () {
                             <td class='${estadoPar}' style="white-space: nowrap;" id='B${IdAdm}'>${telefoneB}</td>
                             <td class='${estadoPar}'><a target="_blank" href="mailto:${dadosEmail}" class="cursor-pointer" style="color:#48586C"> ${entrada.email}</a></td>
                         </tr>`;
-                        //console.log(`<td class='${estadoPar}' style="white-space: nowrap;" id='${IdAdm}'>${telefoneA}</td>`);
                     
                     $(linha).appendTo('#tblDadosAdm>tbody');
                 
@@ -241,31 +225,10 @@ $ (function () {
         });
     })
 
-    })
+})
 
-    function mostraTudo(){
+function mostraTudo(){
     $('#tabelaGeral').css("display", "block");
     $('#dadosAdm').css('display','none');
     $('#Estado').val('');
-    }
-    // var botao = $('#botaoGeral');
-    // var verTodas = $('#tabelaGeral');
-    // botao.on("click", function (){
-    //   verTodas.attr("disabled", false);
-    // })
-
-    // var verTodas = $('#tblAdministradora');
-    // $('#botaoGeral').click(function(){
-    //   verTodas.attr("disabled", false);
-    // })
-
-        // var duplicidade='';
-        // $('#tabelaGeral').each(function(){
-        //     var see=$(this).text();
-        //     if(duplicidade.match(see)){
-        //         $(this).remove();
-        //     }
-        // else{
-        //     duplicidade=duplicidade+$(this).text();
-        // }
-        // });
+}

@@ -36,13 +36,29 @@
             <div class="collapse navbar-collapse" id="navbarsExample01">
                 <ul class="navbar-nav mr-auto" >
                     <li class="nav-item active" >
-                        <a class="nav-link linksNav" id="todasAdm" onclick="mostraTudo()">Ver todas as Administradoras</a>
+                        <a class="nav-link linksNav" id="todasAdm" href="todasadm.html" onclick="mostraTudo()">
+                            Ver todas as Administradoras
+                        </a>
                     </li>
                     <li class="nav-item active" >
-                        <a class="nav-link linksNav" href="index.html">Localizar Administradoras por Estado</a>
+                        <a class="nav-link linksNav" href="index.html">
+                            Localizar Administradoras por Estado
+                        </a>
+                    </li>
+                    <li class="nav-item active" >
+                        <a class="nav-link linksNav" href="decurso-prazo.html">
+                            O prazo do seu contrato finalizou? Saiba Mais!
+                        </a>
+                    </li>
+                    <li class="nav-item active" >
+                        <a class="nav-link linksNav" href="aquisicao-antecipada.html">
+                            Quer quitar seu contrato? Acesse!
+                        </a>
                     </li>                    
                     <li class="nav-item active" >
-                        <a class="nav-link linksNav" href="faq.html">Perguntas Frequentes</a>
+                        <a class="nav-link linksNav" href="faq.html">
+                            Dúvidas sobre o programa PAR
+                        </a>
                     </li>
                 </ul>
             </div>
@@ -53,53 +69,12 @@
                 <section class="container" id="texto">
                     <div class="row">
                         <div class="col-md-12">
-                            <p class= "fs-5 lh-lg mt-3">Você sabia que o atendimento ao Programa de Arrendamento Residencial (PAR) é realizado através de uma Administradora?</p>
+                            <p class= "fs-5 lh-lg mt-3">Você sabia que o atendimento ao <b style="font-family: FuturaBold;">Programa de Arrendamento Residencial (PAR)</b> é realizado através de uma Administradora?</p>
                         </div>
                     </div>
                 </section>
                 
                 <section class="col-md-12 container clearfix" id="containerPar">
-                    <div class="row">
-                        <div class="col-md-6" style="text-align: right; display: none;">
-                            <p class="fs-5 lh-lg">Selecione o Estado do seu imóvel:</p>
-                        </div>
-                    
-                        <div class="col-md-4" style="text-align: center; display:none;">
-                            <select class="form-select form-select-sm" id="Estado"; aria-label="Default select example">
-                                <option selected disabled>Selecione o seu Estado</option>
-                                <option value="AC">Acre</option>
-                                <option value="AL">Alagoas</option>
-                                <option value="AP">Amapá</option>
-                                <option value="AM">Amazonas</option>
-                                <option value="BA">Bahia</option>
-                                <option value="CE">Ceará</option>
-                                <option value="DF">Distrito Federal</option>
-                                <option value="ES">Espírito Santo</option>
-                                <option value="GO">Goiás</option>
-                                <option value="MA">Maranhão</option>
-                                <option value="MT">Mato Grosso</option>
-                                <option value="MS">Mato Grosso do Sul</option>
-                                <option value="MG">Minas Gerais</option>
-                                <option value="PA">Pará</option>
-                                <option value="PB">Paraíba</option>
-                                <option value="PR">Paraná</option>
-                                <option value="PE">Pernambuco</option>
-                                <option value="PI">Piauí</option>
-                                <option value="RJ">Rio de Janeiro</option>
-                                <option value="RN">Rio Grande do Norte</option>
-                                <option value="RS">Rio Grande do Sul</option>
-                                <option value="RO">Rondônia</option>
-                                <option value="RR">Roraima</option>
-                                <option value="SC">Santa Catarina</option>
-                                <option value="SP">São Paulo</option>
-                                <option value="SE">Sergipe</option>
-                                <option value="TO">Tocantins</option>
-                            </select>                        
-                        </div>
-                        <!-- <div class="col-md mb-3" style= "justify-content: center"> -->
-                            <!-- <button id="botaoGeral" type="button" class="btn btn-outline-primary" onclick="mostraTudo()">Ver todas as Administradoras</button> -->
-                        <!-- </div>  -->
-                    </div>       
 
                     <div id="tabelaGeral">
                         <table id="tblAdministradora" class="display text-center table" cellspacing="0" width="80%" role="table">
@@ -118,22 +93,6 @@
                         </table>
                     </div>
 
-                    <div id="dadosAdm">
-                        <table class="display text-center table table-hover" cellspacing="0" width="80%" role="table" id="tblDadosAdm" style="display: none;">
-                            <thead role="rowgroup" class="thead-light">
-                                <tr role="row">
-                                    <th role="columnheader">Administradora</th>
-                                    <th role="columnheader">Estado</th>
-                                    <th role="columnheader">Telefone</th>
-                                    <th role="columnheader">Telefone</th>
-                                    <th role="columnheader">E-mail</th>
-                                </tr>
-                            </thead>
-                            <tbody role="rowgroup">
-                                
-                            </tbody>
-                        </table>
-                    </div>
                 </section>
                 <br>
                
@@ -142,8 +101,8 @@
             <footer class="mt-4" id="rodape">
                 <div class="container mt-2">
                     <ul class="list-unstyled texto-contato">
-                        <li>Alô CAIXA - 4004 0 104 (Capitais e Regiões Metropolitanas)</li>
-                        <li>Alô CAIXA - 0800 104 0 104 (Demais Regiões)</li>
+                        <li>Alô CAIXA - 4004 0104 (Capitais e Regiões Metropolitanas)</li>
+                        <li>Alô CAIXA - 0800 104 0104 (Demais Regiões)</li>
                         <li>SAC - 0800 726 0101</li>
                         <li>Ouvidoria - 0800 725 7474</li>
                         <li>PAR - Programa de Arrendamento Residencial</li>

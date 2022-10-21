@@ -29,7 +29,7 @@
         <nav class="navbar static-top p-2" id="corNav";>            
             <button class="navbar-toggler" style="color:white;" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExample01" aria-controls="navbarsExample01" aria-expanded="false" aria-label="Toggle navigation">
               <span class="" role="button">
-                <i class="fas fa-bars mb-2" aria-hidden="true" style="color:#ffffff; font-size:18px;"></i>
+                <i class="fas fa-bars m-auto" aria-hidden="true" style="color:#ffffff; font-size:18px;"></i>
               </span>
             </button>
             <p class= "mt-3" id="ola">Olá, <span id="saudacao"></span></p>
@@ -37,13 +37,29 @@
             <div class="collapse navbar-collapse" id="navbarsExample01">
                 <ul class="navbar-nav mr-auto" >
                     <li class="nav-item active" >
-                        <a class="nav-link linksNav" id="todasAdm" href="todasadm.html">Ver todas as Administradoras</a>
+                        <a class="nav-link linksNav" id="todasAdm" href="todasadm.html" onclick="mostraTudo()">
+                            Ver todas as Administradoras
+                        </a>
                     </li>
                     <li class="nav-item active" >
-                        <a class="nav-link linksNav" href="index.html">Localizar Administradoras por Estado</a>
+                        <a class="nav-link linksNav" href="index.html">
+                            Localizar Administradoras por Estado
+                        </a>
+                    </li>
+                    <li class="nav-item active" >
+                        <a class="nav-link linksNav" href="decurso-prazo.html">
+                            O prazo do seu contrato finalizou? Saiba Mais!
+                        </a>
+                    </li>
+                    <li class="nav-item active" >
+                        <a class="nav-link linksNav" href="aquisicao-antecipada.html">
+                            Quer quitar seu contrato? Acesse!
+                        </a>
                     </li>                    
                     <li class="nav-item active" >
-                        <a class="nav-link linksNav" href="faq.html">Perguntas Frequentes</a>
+                        <a class="nav-link linksNav" href="faq.html">
+                            Dúvidas sobre o programa PAR
+                        </a>
                     </li>
                 </ul>
             </div>
@@ -54,7 +70,7 @@
                 <section class="container" id="texto">
                     <div class="row">
                         <div class="col-md-12">
-                            <p class= "fs-5 lh-lg mt-3">Você sabia que o atendimento ao Programa de Arrendamento Residencial (PAR) é realizado através de uma Administradora?</p>
+                            <p class= "fs-5 lh-lg mt-3">Você sabia que o atendimento ao <b style="font-family: FuturaBold;">Programa de Arrendamento Residencial (PAR)</b> é realizado através de uma Administradora?</p>
                         </div>
                     </div>
                 </section>
@@ -62,12 +78,12 @@
                 <section class="col-md-12 container clearfix" id="containerPar">
                     <div class="row">
                         <div class="col-md-6" style="text-align: right;">
-                            <p class="fs-5 lh-lg">Selecione o Estado do seu imóvel:</p>
+                            <p class="fs-5 lh-lg">Escolha o Estado do seu imóvel:</p>
                         </div>
                     
                         <div class="col-md-4" style="text-align: center;">
                             <select class="form-select form-select-sm" id="Estado"; aria-label="Default select example">
-                                <option selected disabled>Selecione o seu Estado</option>
+                                <option selected disabled>Escolha o seu Estado</option>
                                 <option value="AC">Acre</option>
                                 <option value="AL">Alagoas</option>
                                 <option value="AP">Amapá</option>
@@ -141,8 +157,8 @@
             <footer class="mt-4" id="rodape">
                 <div class="container mt-2">
                     <ul class="list-unstyled texto-contato">
-                        <li>Alô CAIXA - 4004 0 104 (Capitais e Regiões Metropolitanas)</li>
-                        <li>Alô CAIXA - 0800 104 0 104 (Demais Regiões)</li>
+                        <li>Alô CAIXA - 4004 0104 (Capitais e Regiões Metropolitanas)</li>
+                        <li>Alô CAIXA - 0800 104 0104 (Demais Regiões)</li>
                         <li>SAC - 0800 726 0101</li>
                         <li>Ouvidoria - 0800 725 7474</li>
                         <li>PAR - Programa de Arrendamento Residencial</li>
