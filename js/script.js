@@ -82,7 +82,7 @@ $ (function () {
 
         '17': '{"Id":"31","idAdministradora":"31","CNPJ":"14.097.709\/0001-61","Contratado":"INOVARE NEG\u00d3CIOS IMOBILI\u00c1RIOS E GEST\u00c3O CONDOMINIAL LTDA","UF":"PI","Estado":"Piauí","Telefone_1":"800-591-2302","Whatsapp_telefone_1":"Sim","Telefone_2":"(86) 4009-8398","Whatsapp_telefone_2":"Nao","email":"par.inovare.pi@gmail.com","obs":""}',
 
-        '18': '{"Id":"21","idAdministradora":"18","CNPJ":"21.698.624\/0001-02","Contratado":"ALL GESTAO IMOBILIARIA","UF":"RJ","Estado":"Rio de Janeiro","Telefone_1":"(21) 9833-47122","Whatsapp_telefone_1":"Sim","Telefone_2":"(21) 2283-2663","Whatsapp_telefone_2":"Nao","email":"rj@allgestao.com.br","obs":""}',
+        '18': '{"Id":"21","idAdministradora":"18","CNPJ":"21.698.624\/0001-02","Contratado":"","UF":"RJ","Estado":"Rio de Janeiro","Telefone_1":"","Whatsapp_telefone_1":"Nao","Telefone_2":"","Whatsapp_telefone_2":"Nao","email":"cepat@caixa.gov.br","obs":""}',
 
         '20': '{"Id":"23","idAdministradora":"22","CNPJ":"21.698.624\/0001-02","Contratado":"ALL GESTAO IMOBILIARIA","UF":"RN","Estado":"Rio Grande do Norte","Telefone_1":"(84) 9993-00571","Whatsapp_telefone_1":"Sim","Telefone_2":"(84) 3025-7123","Whatsapp_telefone_2":"Nao","email":"rn@allgestao.com.br","obs":""}',
 
@@ -94,7 +94,7 @@ $ (function () {
 
         '24': '{"Id":"20","idAdministradora":"17","CNPJ":"17.469.667\/0001-30","Contratado":"3 Z ADMINISTRADORA DE IMOVEIS E CONDOMINIO LTDA ME","UF":"SC","Estado":"Santa Catarina","Telefone_1":"(48) 9965-95445","Whatsapp_telefone_1":"Sim","Telefone_2":"(48) 4042-1070","Whatsapp_telefone_2":"Nao","email":"3z.santacatarina@gmail.com","obs":""}',
 
-        '25': '{"Id":"9","idAdministradora":"6","CNPJ":"10.908.624\/0001-65","Contratado":"NEVES ADMINISTRADORA DE CONDOMINIO LTDA ME","UF":"SP","Estado":"São Paulo","Telefone_1":"(14) 9820-66726","Whatsapp_telefone_1":"Sim","Telefone_2":"(14) 3227-6876","Whatsapp_telefone_2":"Nao","email":"gerencia.saopaulo@nevescondominios.com.br","obs":"Interior"}',
+        '25': '{"Id":"9","idAdministradora":"6","CNPJ":"10.908.624\/0001-65","Contratado":"INOVARE NEG\u00d3CIOS IMOBILI\u00c1RIOS E GEST\u00c3O CONDOMINIAL LTDA","UF":"SP","Estado":"São Paulo","Telefone_1":"800-591-2302","Whatsapp_telefone_1":"Sim","Telefone_2":"(14) 3161-5112","Whatsapp_telefone_2":"Nao","email":"par.inovare.sp@gmail.com","obs":"Interior"}',
 
         '26': '{"Id":"28","idAdministradora":"28","CNPJ":"21.698.624\/0001-02","Contratado":"ALL GESTAO IMOBILIARIA","UF":"SP","Estado":"São Paulo","Telefone_1":"(11) 9648-35432","Whatsapp_telefone_1":"Sim","Telefone_2":"(11) 2738-5826","Whatsapp_telefone_2":"Nao","email":"cobranca2sp@allgestao.com.br", "obs":"Capital, Região Metropolitana e Baixada Santista"}',
 
