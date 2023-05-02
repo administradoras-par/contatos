@@ -52,7 +52,7 @@ $ (function () {
 
         '3': '{"Id":"2","idAdministradora":"2","CNPJ":"14.097.709\/0001-61","Contratado":"INOVARE NEG\u00d3CIOS IMOBILI\u00c1RIOS E GEST\u00c3O CONDOMINIAL LTDA","UF":"AM","Estado":"Amazonas","Telefone_1":"800-878-2828","Whatsapp_telefone_1":"Sim","Telefone_2":"(69) 3533-8898","Whatsapp_telefone_2":"Nao","email":"par.inovare.norte@gmail.com","obs":""}',
 
-        '4': '{"Id":"7","idAdministradora":"5","CNPJ":"14.097.709\/0001-61","Contratado":"INOVARE NEG\u00d3CIOS IMOBILI\u00c1RIOS E GEST\u00c3O CONDOMINIAL LTDA","UF":"BA","Estado":"Bahia","Telefone_1":"800-878-2828","Whatsapp_telefone_1":"Sim","Telefone_2":"(71) 3500-1423","Whatsapp_telefone_2":"Nao","email":"par.bahia@inovarecondominios.com.br","obs":""}',
+        '4': '{"Id":"7","idAdministradora":"5","CNPJ":"14.097.709\/0001-61","Contratado":"","UF":"BA","Estado":"Bahia","Telefone_1":"","Whatsapp_telefone_1":"Nao","Telefone_2":"","Whatsapp_telefone_2":"Nao","email":"cepat@caixa.gov.br","obs":""}',
 
         '5': '{"Id":"30","idAdministradora":"30","CNPJ":"14.097.709\/0001-61","Contratado":"INOVARE NEG\u00d3CIOS IMOBILI\u00c1RIOS E GEST\u00c3O CONDOMINIAL LTDA","UF":"CE","Estado":"Ceará","Telefone_1":"800-591-2302","Whatsapp_telefone_1":"Sim","Telefone_2":"(85) 3771-4672","Whatsapp_telefone_2":"Nao","email":"par.inovare.ce@gmail.com","obs":""}',
 
@@ -82,7 +82,7 @@ $ (function () {
 
         '17': '{"Id":"31","idAdministradora":"31","CNPJ":"14.097.709\/0001-61","Contratado":"INOVARE NEG\u00d3CIOS IMOBILI\u00c1RIOS E GEST\u00c3O CONDOMINIAL LTDA","UF":"PI","Estado":"Piauí","Telefone_1":"800-591-2302","Whatsapp_telefone_1":"Sim","Telefone_2":"(86) 4009-8398","Whatsapp_telefone_2":"Nao","email":"par.inovare.pi@gmail.com","obs":""}',
 
-        '18': '{"Id":"21","idAdministradora":"18","CNPJ":"21.698.624\/0001-02","Contratado":"","UF":"RJ","Estado":"Rio de Janeiro","Telefone_1":"","Whatsapp_telefone_1":"Nao","Telefone_2":"","Whatsapp_telefone_2":"Nao","email":"cepat@caixa.gov.br","obs":""}',
+        '18': '{"Id":"21","idAdministradora":"18","CNPJ":"21.698.624\/0001-02","Contratado":"ALL GESTAO IMOBILIARIA","UF":"RJ","Estado":"Rio de Janeiro","Telefone_1":"(21) 9722-75405","Whatsapp_telefone_1":"Sim","Telefone_2":"","Whatsapp_telefone_2":"Nao","email":"rj@allgestao.com.br","obs":""}',
 
         '20': '{"Id":"23","idAdministradora":"22","CNPJ":"21.698.624\/0001-02","Contratado":"ALL GESTAO IMOBILIARIA","UF":"RN","Estado":"Rio Grande do Norte","Telefone_1":"(84) 9993-00571","Whatsapp_telefone_1":"Sim","Telefone_2":"(84) 3025-7123","Whatsapp_telefone_2":"Nao","email":"rn@allgestao.com.br","obs":""}',
 
@@ -98,7 +98,7 @@ $ (function () {
 
         '26': '{"Id":"28","idAdministradora":"28","CNPJ":"21.698.624\/0001-02","Contratado":"ALL GESTAO IMOBILIARIA","UF":"SP","Estado":"São Paulo","Telefone_1":"(11) 9648-35432","Whatsapp_telefone_1":"Sim","Telefone_2":"(11) 2738-5826","Whatsapp_telefone_2":"Nao","email":"cobranca2sp@allgestao.com.br", "obs":"Capital, Região Metropolitana e Baixada Santista"}',
 
-        '27': '{"Id":"27","idAdministradora":"27","CNPJ":"14.097.709\/0001-61","Contratado":"INOVARE NEG\u00d3CIOS IMOBILI\u00c1RIOS E GEST\u00c3O CONDOMINIAL LTDA","UF":"SE","Estado":"Sergipe","Telefone_1":"800-878-2828","Whatsapp_telefone_1":"Sim","Telefone_2":"(79) 3045-4003","Whatsapp_telefone_2":"Nao","email":"par.sergipe@inovarecondominios.com.br","obs":""}',
+        '27': '{"Id":"27","idAdministradora":"27","CNPJ":"14.097.709\/0001-61","Contratado":"","UF":"SE","Estado":"Sergipe","Telefone_1":"","Whatsapp_telefone_1":"Nao","Telefone_2":"","Whatsapp_telefone_2":"Nao","email":"cepat@caixa.gov.br","obs":""}',
 
         '28': '{"Id":"29","idAdministradora":"29","CNPJ":"17.469.667\/0001-30","Contratado":"3 Z ADMINISTRADORA DE IMOVEIS E CONDOMINIO LTDA ME","UF":"TO","Estado":"Tocantins","Telefone_1":"(63) 9926-62323","Whatsapp_telefone_1":"Sim","Telefone_2":"(63) 2104-1280","Whatsapp_telefone_2":"Nao","email":"3z.tocantins@gmail.com","obs":""}'};
 
