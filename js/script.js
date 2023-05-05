@@ -68,7 +68,7 @@ $ (function () {
 
         '10': '{"Id":"16","idAdministradora":"14","CNPJ":"03.875.232\/0001-81","Contratado":"ADM PONTUAL IMOBILIARIA E CONDOMINIAL LTDA","UF":"MT","Estado":"Mato Grosso","Telefone_1":"(65) 9816-33657","Whatsapp_telefone_1":"Sim","Telefone_2":"(65) 3054-0360","Whatsapp_telefone_2":"Nao","email":"admpontual2022@gmail.com","obs":""}',
 
-        '11': '{"Id":"15","idAdministradora":"13","CNPJ":"27.771.883\/0001-90","Contratado":"","UF":"MS","Estado":"Mato Grosso do Sul","Telefone_1":"","Whatsapp_telefone_1":"Nao","Telefone_2":"","Whatsapp_telefone_2":"Nao","email":"cepat@caixa.gov.br","obs":""}',
+        '11': '{"Id":"15","idAdministradora":"13","CNPJ":"17.469.667\/0001-30","Contratado":"3 Z ADMINISTRADORA DE IMOVEIS E CONDOMINIO LTDA ME","UF":"MS","Estado":"Mato Grosso do Sul","Telefone_1":"(67) 4042-7442","Whatsapp_telefone_1":"Nao","Telefone_2":"(67) 9962-87482","Whatsapp_telefone_2":"Sim","email":"3z.matogrossodosul@gmail.com","obs":""}',
 
         '12': '{"Id":"14","idAdministradora":"12","CNPJ":"14.097.709\/0001-61","Contratado":"INOVARE NEG\u00d3CIOS IMOBILI\u00c1RIOS E GEST\u00c3O CONDOMINIAL LTDA","UF":"MG","Estado":"Minas Gerais","Telefone_1":"800-878-2828","Whatsapp_telefone_1":"Sim","Telefone_2":"(31) 3956-0463","Whatsapp_telefone_2":"Nao","email":"par.inovare.mg@gmail.com","obs":""}',
 
