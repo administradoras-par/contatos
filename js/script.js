@@ -86,6 +86,8 @@ $ (function () {
 
         '20': '{"Id":"23","idAdministradora":"22","CNPJ":"21.698.624\/0001-02","Contratado":"ALL GESTAO IMOBILIARIA","UF":"RN","Estado":"Rio Grande do Norte","Telefone_1":"(84) 9993-00571","Whatsapp_telefone_1":"Sim","Telefone_2":"(84) 3025-7123","Whatsapp_telefone_2":"Nao","email":"rn@allgestao.com.br","obs":""}',
 
+        '30': '{"Id":"40","idAdministradora":"29","CNPJ":"17.469.667\/0001-30","Contratado":"3 Z ADMINISTRADORA DE IMOVEIS E CONDOMINIO LTDA ME","UF":"RO","Estado":"Rondônia","Telefone_1":"(69) 9999-23683","Whatsapp_telefone_1":"Sim","Telefone_2":"(69) 3533-7019","Whatsapp_telefone_2":"Nao","email":"3z.rondonia@gmail.com","obs":"Empreendimentos: Morada Sul, Pq dos Ipes, Res.Rio Bonito, Res.Rio Verde, Res.Aquarius e Res.Novo Horizonte"}',
+
         '21': '{"Id":"24","idAdministradora":"23","CNPJ":"14.097.709\/0001-61","Contratado":"INOVARE NEG\u00d3CIOS IMOBILI\u00c1RIOS E GEST\u00c3O CONDOMINIAL LTDA","UF":"RS","Estado":"Rio Grande do Sul","Telefone_1":"800-878-2828","Whatsapp_telefone_1":"Sim","Telefone_2":"(51) 3500-0841","Whatsapp_telefone_2":"Nao","email":"par.inovare.rs@gmail.com","obs":""}',
 
         '22': '{"Id":"3","idAdministradora":"2","CNPJ":"14.097.709\/0001-61","Contratado":"INOVARE NEG\u00d3CIOS IMOBILI\u00c1RIOS E GEST\u00c3O CONDOMINIAL LTDA","UF":"RO","Estado":"Rondônia","Telefone_1":"800-878-2828","Whatsapp_telefone_1":"Sim","Telefone_2":"(69) 3533-8898","Whatsapp_telefone_2":"Nao","email":"par.inovare.norte@gmail.com","obs":""}',
