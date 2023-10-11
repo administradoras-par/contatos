@@ -82,7 +82,7 @@ $ (function () {
 
         '17': '{"Id":"31","idAdministradora":"31","CNPJ":"14.097.709\/0001-61","Contratado":"INOVARE NEG\u00d3CIOS IMOBILI\u00c1RIOS E GEST\u00c3O CONDOMINIAL LTDA","UF":"PI","Estado":"Piauí","Telefone_1":"800-591-2302","Whatsapp_telefone_1":"Sim","Telefone_2":"(86) 4009-8398","Whatsapp_telefone_2":"Nao","email":"par.inovare.pi@gmail.com","obs":""}',
 
-        '18': '{"Id":"21","idAdministradora":"18","CNPJ":"21.698.624\/0001-02","Contratado":"ALL GESTAO IMOBILIARIA","UF":"RJ","Estado":"Rio de Janeiro","Telefone_1":"(21) 9722-75405","Whatsapp_telefone_1":"Sim","Telefone_2":"","Whatsapp_telefone_2":"Nao","email":"rj@allgestao.com.br","obs":""}',
+        '18': '{"Id":"21","idAdministradora":"18","CNPJ":"21.698.624\/0001-02","Contratado":"IMPERIAL","UF":"RJ","Estado":"Rio de Janeiro","Telefone_1":"(21) 3849-4150","Whatsapp_telefone_1":"Sim","Telefone_2":"(21) 3849-4150","Whatsapp_telefone_2":"Nao","email":"atendimentorj@imperialrio.com.br","obs":""}',
 
         '20': '{"Id":"23","idAdministradora":"22","CNPJ":"21.698.624\/0001-02","Contratado":"ALL GESTAO IMOBILIARIA","UF":"RN","Estado":"Rio Grande do Norte","Telefone_1":"(84) 9993-00571","Whatsapp_telefone_1":"Sim","Telefone_2":"(84) 3025-7123","Whatsapp_telefone_2":"Nao","email":"rn@allgestao.com.br","obs":""}',
 
@@ -96,9 +96,9 @@ $ (function () {
 
         '24': '{"Id":"20","idAdministradora":"17","CNPJ":"17.469.667\/0001-30","Contratado":"3 Z ADMINISTRADORA DE IMOVEIS E CONDOMINIO LTDA ME","UF":"SC","Estado":"Santa Catarina","Telefone_1":"(48) 9965-95445","Whatsapp_telefone_1":"Sim","Telefone_2":"(48) 4042-1070","Whatsapp_telefone_2":"Nao","email":"3z.santacatarina@gmail.com","obs":""}',
 
-        '25': '{"Id":"9","idAdministradora":"6","CNPJ":"10.908.624\/0001-65","Contratado":"INOVARE NEG\u00d3CIOS IMOBILI\u00c1RIOS E GEST\u00c3O CONDOMINIAL LTDA","UF":"SP","Estado":"São Paulo","Telefone_1":"800-591-2302","Whatsapp_telefone_1":"Sim","Telefone_2":"(14) 3161-5112","Whatsapp_telefone_2":"Nao","email":"par.inovare.sp@gmail.com","obs":"Interior"}',
+        '25': '{"Id":"9","idAdministradora":"6","CNPJ":"17.469.667\/0001-30","Contratado":"3 Z ADMINISTRADORA DE IMOVEIS E CONDOMINIO LTDA ME","UF":"SP","Estado":"São Paulo","Telefone_1":"(11) 5194-3515","Whatsapp_telefone_1":"Nao","Telefone_2":"","Whatsapp_telefone_2":"Nao","email":"3z.saopaulo@gmail.com","obs":""}',
 
-        '26': '{"Id":"28","idAdministradora":"28","CNPJ":"21.698.624\/0001-02","Contratado":"ALL GESTAO IMOBILIARIA","UF":"SP","Estado":"São Paulo","Telefone_1":"(11) 9164-78064","Whatsapp_telefone_1":"Sim","Telefone_2":"(11) 2738-5826","Whatsapp_telefone_2":"Nao","email":"cobranca2sp@allgestao.com.br", "obs":"Capital, Região Metropolitana e Baixada Santista"}',
+        // '26': '{"Id":"28","idAdministradora":"28","CNPJ":"21.698.624\/0001-02","Contratado":"ALL GESTAO IMOBILIARIA","UF":"SP","Estado":"São Paulo","Telefone_1":"(11) 9164-78064","Whatsapp_telefone_1":"Sim","Telefone_2":"(11) 2738-5826","Whatsapp_telefone_2":"Nao","email":"cobranca2sp@allgestao.com.br", "obs":"Capital, Região Metropolitana e Baixada Santista"}',
 
         '27': '{"Id":"27","idAdministradora":"27","CNPJ":"17.469.667\/0001-30","Contratado":"3 Z ADMINISTRADORA DE IMOVEIS E CONDOMINIO LTDA ME","UF":"SE","Estado":"Sergipe","Telefone_1":"(27) 9960-03775","Whatsapp_telefone_1":"Sim","Telefone_2":"(79) 3142-3262","Whatsapp_telefone_2":"Nao","email":"3z.sergipe@gmail.com","obs":""}',
 
