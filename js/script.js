@@ -52,13 +52,13 @@ $ (function () {
 
         '3': '{"Id":"2","idAdministradora":"2","CNPJ":"14.097.709\/0001-61","Contratado":"3 Z ADMINISTRADORA","UF":"AM","Estado":"Amazonas","Telefone_1":"800-591-6397","Whatsapp_telefone_1":"Sim","Telefone_2":"(91) 3197-1657","Whatsapp_telefone_2":"Nao","email":"3z.par.norte@gmail.com","obs":""}',
 
-        '4': '{"Id":"7","idAdministradora":"5","CNPJ":"17.469.667\/0001-30","Contratado":"3 Z ADMINISTRADORA","UF":"BA","Estado":"Bahia","Telefone_1":"(27) 9960-03775","Whatsapp_telefone_1":"Sim","Telefone_2":"(71) 3190-8190","Whatsapp_telefone_2":"Nao","email":"3z.bahia01@gmail.com","obs":""}',
+        '4': '{"Id":"7","idAdministradora":"5","CNPJ":"17.469.667\/0001-30","Contratado":"3 Z ADMINISTRADORA","UF":"BA","Estado":"Bahia","Telefone_1":"800-591-6397","Whatsapp_telefone_1":"Sim","Telefone_2":"(71) 3190-8190","Whatsapp_telefone_2":"Nao","email":"3z.bahia01@gmail.com","obs":""}',
 
         '5': '{"Id":"30","idAdministradora":"30","CNPJ":"14.097.709\/0001-61","Contratado":"FARAO","UF":"CE","Estado":"Ceará","Telefone_1":"(85) 9943-28434","Whatsapp_telefone_1":"Sim","Telefone_2":"(85) 3046-3470","Whatsapp_telefone_2":"Nao","email":"par.ce@faraoparticipacoes.com.br","obs":""}',
 
         '6': '{"Id":"10","idAdministradora":"8","CNPJ":"17.469.667\/0001-30","Contratado":"PADRA","UF":"DF","Estado":"Distrito Federal","Telefone_1":"800-591-6398","Whatsapp_telefone_1":"Sim","Telefone_2":"(61) 3686-1340","Whatsapp_telefone_2":"Nao","email":"padra.brasilia@gmail.com","obs":""}',
 
-        '7': '{"Id":"11","idAdministradora":"9","CNPJ":"17.469.667\/0001-30","Contratado":"3 Z ADMINISTRADORA","UF":"ES","Estado":"Espírito Santo","Telefone_1":"(27) 9960-03775","Whatsapp_telefone_1":"Sim","Telefone_2":"(27) 4042-8353","Whatsapp_telefone_2":"Nao","email":"3z.espiritosanto@gmail.com","obs":""}',
+        '7': '{"Id":"11","idAdministradora":"9","CNPJ":"17.469.667\/0001-30","Contratado":"3 Z ADMINISTRADORA","UF":"ES","Estado":"Espírito Santo","Telefone_1":"800-591-6397","Whatsapp_telefone_1":"Sim","Telefone_2":"(27) 4042-8353","Whatsapp_telefone_2":"Nao","email":"3z.espiritosanto@gmail.com","obs":""}',
 
         '29': '{"Id":"50","idAdministradora":"50","CNPJ":"17.469.667\/0001-30","Contratado":"PADRA","UF":"GO","Estado":"Goiás","Telefone_1":"800-591-6398","Whatsapp_telefone_1":"Sim","Telefone_2":"(62) 3413-9943","Whatsapp_telefone_2":"Nao","email":"padra.goias@gmail.com","obs":""}',
 
@@ -96,11 +96,11 @@ $ (function () {
 
         '24': '{"Id":"20","idAdministradora":"17","CNPJ":"17.469.667\/0001-30","Contratado":"PADRA","UF":"SC","Estado":"Santa Catarina","Telefone_1":"800-591-6398","Whatsapp_telefone_1":"Sim","Telefone_2":"(48) 4042-1070","Whatsapp_telefone_2":"Nao","email":"padra.santacatarina@gmail.com","obs":""}',
 
-        '25': '{"Id":"9","idAdministradora":"6","CNPJ":"17.469.667\/0001-30","Contratado":"3 Z ADMINISTRADORA","UF":"SP","Estado":"São Paulo","Telefone_1":"(11) 5194-3515","Whatsapp_telefone_1":"Nao","Telefone_2":"","Whatsapp_telefone_2":"Nao","email":"3z.saopaulo@gmail.com","obs":""}',
+        '25': '{"Id":"9","idAdministradora":"6","CNPJ":"17.469.667\/0001-30","Contratado":"3 Z ADMINISTRADORA","UF":"SP","Estado":"São Paulo","Telefone_1":"800-591-6397","Whatsapp_telefone_1":"Sim","Telefone_2":"(11) 5194-3515","Whatsapp_telefone_2":"Nao","email":"3z.saopaulo@gmail.com","obs":""}',
 
         // '26': '{"Id":"28","idAdministradora":"28","CNPJ":"21.698.624\/0001-02","Contratado":"ALL GESTAO IMOBILIARIA","UF":"SP","Estado":"São Paulo","Telefone_1":"(11) 9164-78064","Whatsapp_telefone_1":"Sim","Telefone_2":"(11) 2738-5826","Whatsapp_telefone_2":"Nao","email":"cobranca2sp@allgestao.com.br", "obs":"Capital, Região Metropolitana e Baixada Santista"}',
 
-        '27': '{"Id":"27","idAdministradora":"27","CNPJ":"17.469.667\/0001-30","Contratado":"3 Z ADMINISTRADORA","UF":"SE","Estado":"Sergipe","Telefone_1":"(27) 9960-03775","Whatsapp_telefone_1":"Sim","Telefone_2":"(79) 3142-3262","Whatsapp_telefone_2":"Nao","email":"3z.sergipe@gmail.com","obs":""}',
+        '27': '{"Id":"27","idAdministradora":"27","CNPJ":"17.469.667\/0001-30","Contratado":"3 Z ADMINISTRADORA","UF":"SE","Estado":"Sergipe","Telefone_1":"800-591-6397","Whatsapp_telefone_1":"Sim","Telefone_2":"(79) 3142-3262","Whatsapp_telefone_2":"Nao","email":"3z.sergipe@gmail.com","obs":""}',
 
         '28': '{"Id":"29","idAdministradora":"29","CNPJ":"17.469.667\/0001-30","Contratado":"PADRA","UF":"TO","Estado":"Tocantins","Telefone_1":"800-591-6398","Whatsapp_telefone_1":"Sim","Telefone_2":"(63) 2104-1280","Whatsapp_telefone_2":"Nao","email":"padra.tocantins@gmail.com","obs":""}'};
 
