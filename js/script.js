@@ -98,7 +98,7 @@ $ (function () {
 
         '25': '{"Id":"9","idAdministradora":"6","CNPJ":"17.469.667\/0001-30","Contratado":"3 Z ADMINISTRADORA","UF":"SP","Estado":"São Paulo","Telefone_1":"800-591-6397","Whatsapp_telefone_1":"Sim","Telefone_2":"(11) 5194-3515","Whatsapp_telefone_2":"Nao","email":"3z.saopaulo@gmail.com","obs":""}',
 
-        // '26': '{"Id":"28","idAdministradora":"28","CNPJ":"21.698.624\/0001-02","Contratado":"ALL GESTAO IMOBILIARIA","UF":"SP","Estado":"São Paulo","Telefone_1":"(11) 9164-78064","Whatsapp_telefone_1":"Sim","Telefone_2":"(11) 2738-5826","Whatsapp_telefone_2":"Nao","email":"cobranca2sp@allgestao.com.br", "obs":"Capital, Região Metropolitana e Baixada Santista"}',
+        // '26': '{"Id":"28","idAdministradora":"28","CNPJ":"21.698.624\/0001-02","Contratado":"ALL GESTAO IMOBILIARIA","UF":"SP","Estado":"São Paulo","Telefone_1":"(11) 9164-78064","Whatsapp_telefone_1":"Sim","Telefone_2":"(11) 2738-5826","Whatsapp_telefone_2":"Nao","email":"cobranca2sp@allgestao.com.br", "obs":"Capital, Região Metropolitana e Baixada Santista "}',
 
         '27': '{"Id":"27","idAdministradora":"27","CNPJ":"17.469.667\/0001-30","Contratado":"3 Z ADMINISTRADORA","UF":"SE","Estado":"Sergipe","Telefone_1":"800-591-6397","Whatsapp_telefone_1":"Sim","Telefone_2":"(79) 3142-3262","Whatsapp_telefone_2":"Nao","email":"3z.sergipe@gmail.com","obs":""}',
 
